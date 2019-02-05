@@ -10,3 +10,7 @@ tsconfig.json  - Compiler options
 tsconfig.prod.json
 tsconfig.test.json
 tslint.json
+
+Documentation Link: https://goo.gl/YfVYdJ
+Demo Link: https://friendlychat-eaac3.firebaseapp.com/
+
